@@ -54,7 +54,7 @@ js.Browser.document.write('<img src="data:image/png;base64,'+p.getBase64()+'">')
 
 Results in:
 
-![Concentric circles](https://raw.githubusercontent.com/FuzzyWuzzie/haxe-FileSaver/master/circles.png)
+![Concentric circles](https://raw.githubusercontent.com/FuzzyWuzzie/haxe-PNGlib/master/circles.png)
 
 ### Live Sample
 

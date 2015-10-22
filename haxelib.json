@@ -1,0 +1,11 @@
+{
+  "name": "PNGlib",
+  "url" : "https://github.com/FuzzyWuzzie/haxe-PNGlib",
+  "license": "MIT",
+  "tags": ["js"],
+  "description": "Haxe externs for the pnglib.js library (for saving files from the browser).",
+  "version": "1.0.0",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["FuzzyWuzzie"],
+  "dependencies": {}
+}

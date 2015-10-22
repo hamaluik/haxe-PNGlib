@@ -1,0 +1,3 @@
+-lib PNGlib
+-main Sample
+-js output/PNGlibSample.js

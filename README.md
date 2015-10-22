@@ -1,5 +1,6 @@
 # haxe-PNGlib
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/FuzzyWuzzie/haxe-PNGlib/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-BSD-blue.svg?style=flat-square)](http://www.opensource.org/licenses/bsd-license.php)
 
 Haxe externs for the [PNGlib][1] library.
 
